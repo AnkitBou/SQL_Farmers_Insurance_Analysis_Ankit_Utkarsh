@@ -1,1 +1,0 @@
-# SQL_Farmers_Insurance_Analysis_Ankit_Utkarsh
